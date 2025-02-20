@@ -1,5 +1,7 @@
 # Quiz1
 Button corresponds to a color. and if you press multiple buttons it will show the color. 
+
+
 const int GreenLED = 8;
 const int BlueLED  = 9;
 const int RedLED   = 10;
